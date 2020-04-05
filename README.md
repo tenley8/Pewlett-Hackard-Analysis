@@ -31,7 +31,7 @@ Create a technical report in markdown format that contains the following:
 -PNG of your ERD
 -Code for the requested queries, with examples of each output
 
-
+--titles_retiring
 SELECT ri.emp_no,
 ri.first_name,
 ri.last_name,

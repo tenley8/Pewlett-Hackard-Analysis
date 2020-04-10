@@ -28,7 +28,7 @@
 # Instructions
 Create a technical report in markdown format that contains the following:
 -Brief project summary
--PNG of your ERD
+-PNG of your ERD Diagram
 -Code for the requested queries, with examples of each output
 
 
